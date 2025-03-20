@@ -1,4 +1,4 @@
----
-title: Welcome to my blog
+title: "Moje Portfolio"
 ---
 
+# Witaj na mojej stronie! 🌟
